@@ -1,7 +1,7 @@
 # UBER New York Data Analysis
 
 
-#Libraries Used:
+Libraries Used:
 -Pandas
 -Matplotlib
 -Seaborn
